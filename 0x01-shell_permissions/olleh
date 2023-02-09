@@ -1,1 +1,1 @@
-chmod –reference=olleh hello
+chmod -R +X .

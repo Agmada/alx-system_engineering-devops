@@ -8,4 +8,4 @@ chmod +114 hello
 chmod +111 hello
 chmod 007 hello
 chmod 753 hello
-mkdir –reference=olleh hello
+chmod -R +X .
