@@ -1,2 +1,3 @@
 pwd
 cd ~
+ls -l
